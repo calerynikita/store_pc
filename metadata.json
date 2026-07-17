@@ -1,0 +1,6 @@
+{
+  "name": "校服商城门店排号系统",
+  "description": "门店排号系统的PC端维护界面，包含实时队列监控、号单管理、门店管理以及排号系统参数配置功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
